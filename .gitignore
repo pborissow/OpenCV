@@ -1,0 +1,11 @@
+/dist/
+/build/
+/target/
+/nbproject/
+build.xml
+manifest.mf
+
+
+*.DS_Store
+*.dll
+
